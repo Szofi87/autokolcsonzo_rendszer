@@ -46,18 +46,18 @@ autokolcsonzo_rendszer/
 ## Használati útmutató
 A program elindítása után a következő műveletek közül választhatsz:
 
-Autó bérlése: Add meg az autó rendszámát, és a program visszaadja a bérleti díjat.
-Bérlés lemondása: Add meg az autó rendszámát a bérlés lemondásához.
-Bérlések listázása: A program kilistázza az összes aktuális bérlést.
-Kilépés: Lezárja a programot.
+1. **Autó bérlése**: Add meg az autó rendszámát, és a program visszaadja a bérleti díjat.
+2. **Bérlés lemondása**: Add meg az autó rendszámát a bérlés lemondásához.
+3. **Bérlések listázása**: A program kilistázza az összes aktuális bérlést.
+4. **Kilépés**: Lezárja a programot.
 
 ## Előre feltöltött adatok
 A program indulásakor három autó és négy bérlés szerepel az adatbázisban, hogy a felhasználó azonnal használatba vehesse a rendszert.
--Szemelyauto("AAA-123", "Toyota Corolla", 5000, 5)
--Szemelyauto("BBB-456", "Honda Civic", 5500, 5)
--Teherauto("CCC-789", "Ford Transit", 10000, 1000)
-berles1 = (2024, 10, 24)
-berles2 = (2024, 10, 25)
-berles3 = (2024, 10, 26)
-berles4 = (2024, 10, 27)
+- **Szemelyauto** ("AAA-123", "Toyota Corolla", 5000, 5)
+- **Szemelyauto**("BBB-456", "Honda Civic", 5500, 5)
+- **Teherauto**("CCC-789", "Ford Transit", 10000, 1000)
+- **berles1** = (2024, 10, 24)
+- **berles2** = (2024, 10, 25)
+- **berles3** = (2024, 10, 26)
+- **berles4** = (2024, 10, 27)
 
